@@ -43,7 +43,6 @@ class _BallState extends State<Ball> {
               ballNumber = Random().nextInt(5)+1;
               print('I got clicked.');
             });
-
         },
       ),
     );
