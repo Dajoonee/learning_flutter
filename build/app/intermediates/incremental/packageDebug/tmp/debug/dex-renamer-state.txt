@@ -1,0 +1,4 @@
+#Wed Jul 22 22:04:32 KST 2020
+base.0=E\:\\flutterProject\\git\\learning_flutter\\django_server\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
